@@ -1,6 +1,6 @@
 public class Test {
     String make = "Mercedes";
-    String model = "S-Class.";
+    String model = "S-Class";
     int year = 2023;
     String colour = "Black";
     double price = 500000;
